@@ -1,4 +1,4 @@
-#            k8s1.13-16-dashboard
+#            k8s1.13-18-dashboard
 
 
 ## Kubernetes Dashboard 及监控组件 Heapster Gafana  InfluxDB 一键部署
